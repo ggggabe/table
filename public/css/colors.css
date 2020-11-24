@@ -1,0 +1,87 @@
+/* public/colors.css */
+
+:root {
+  --bg-color-: #ffe9da;
+
+  --fg-color: #fff;
+  --color: #000;
+
+  /* NEUTRAL COLORS */
+  --neutral-darkest: rgb(14, 13, 12);
+  --neutral-darker: rgb(20, 20, 20);
+  --neutral-dark: rgb(31, 31, 31);
+  --neutral-dark-medium: rgb(37, 37, 37);
+
+  --neutral-medium-dark: rgb(87, 87, 87);
+  --neutral-medium: rgb(129, 129, 129);
+  --neutral-medium-light: rgb(143, 143, 143);
+
+  --neutral-light: rgb(182, 182, 182);
+  --neutral-lighter: rgb(202, 202, 202);
+  --neutral-lightest: rgb(236, 236, 236);
+
+/* PRIMARY COLORS */
+  --primary-darkest: rgb(27, 10, 21);
+  --primary-darker: rgb(41, 17, 32);
+  --primary-dark: rgb(58, 28, 47);
+
+  --primary-medium-dark: rgb(77, 40, 64);
+  --primary-medium: rgb(99, 50, 82);
+  --primary-medium-light: rgb(124, 63, 103);
+
+  --primary-light: rgb(167, 98, 143);
+  --primary-lighter: rgb(190, 118, 165);
+  --primary-lightest: rgb(207, 167, 193);
+
+/* ACCENT COLORS */
+  --accent-darkest: rgb(4, 34, 29);
+  --accent-darker: rgb(11, 49, 43);
+  --accent-dark: rgb(17, 66, 58);
+
+  --accent-medium-dark: rgb(28, 100, 88);
+  --accent-medium: rgb(46, 138, 122);
+  --accent-medium-light: rgb(76, 167, 152);
+
+  --accent-light: rgb(90, 180, 165);
+  --accent-lighter: rgb(130, 214, 200);
+  --accent-lightest: rgb(154, 228, 215);
+
+/* DANGER COLORS */
+  --danger-dark: rgb(88, 28, 23);
+  --danger-darker: rgb(65, 16, 12);
+  --danger-darkest: rgb(39, 9, 7);
+
+  --danger-medium-dark: rgb(155, 58, 51);
+  --danger-medium: rgb(121, 37, 31);
+  --danger-medium-light: rgb(105, 28, 23);
+
+  --danger-light: rgb(190, 89, 81);
+  --danger-lighter: rgb(212, 117, 110);
+  --danger-lightest: rgb(252, 191, 186);
+
+/* WARNING COLORS */
+  --warning-darkest: rgb(37, 31, 2);
+  --warning-darker: rgb(63, 52, 2);
+  --warning-dark: rgb(104, 86, 8);
+
+  --warning-medium-dark: rgb(153, 127, 12);
+  --warning-medium: rgb(190, 160, 23);
+  --warning-medium-light: rgb(214, 182, 40);
+
+  --warning-light: rgb(230, 203, 86);
+  --warning-lighter: rgb(236, 217, 132);
+  --warning-lightest: rgb(238, 228, 183);
+
+  /* POSITIVE COLORS */
+  --positive-darkest: rgb(15, 27, 14);
+  --positive-darker: rgb(25, 49, 22);
+  --positive-dark: rgb(28, 66, 24);
+
+  --positive-medium-dark: rgb(41, 82, 37);
+  --positive-medium: rgb(53, 112, 47);
+  --positive-medium-light: rgb(79, 129, 73);
+
+  --positive-light: rgb(104, 165, 98);
+  --positive-lighter: rgb(155, 207, 150);
+  --positive-lightest: rgb(196, 236, 192);
+}
