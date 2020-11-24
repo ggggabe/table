@@ -74,3 +74,11 @@ export const LeftMiddleRight = (props) => {
     </Flex>
   )
 }
+
+export const Grid = (props) => {
+  return (
+    <Flex>
+
+    </Flex>
+  )
+}
